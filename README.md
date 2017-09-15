@@ -1,2 +1,4 @@
 # codeAcademyPython
-Code Academy Python Lesson
+Code Academy Python Tutorial
+
+https://www.codecademy.com/learn/learn-python
